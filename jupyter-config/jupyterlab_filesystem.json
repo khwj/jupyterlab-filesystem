@@ -1,0 +1,12 @@
+{
+  "ServerApp": {
+    "jpserver_extensions": {
+      "jupyterlab_filesystem": true
+    }
+  },
+  "NotebookApp": {
+    "nbserver_extensions": {
+      "jupyterlab_filesystem": true
+    }
+  }
+}

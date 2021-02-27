@@ -1,0 +1,17 @@
+[data-jp-theme-light='true'] .jp-FileSystemIcon {
+  background-image: url(octocat-light.svg);
+}
+
+[data-jp-theme-light='false'] .jp-FileSystemIcon {
+  background-image: url(octocat-dark.svg);
+}
+
+.jp-FileSystemBrowser {
+  height: 100%;
+}
+
+
+.jp-FileSystemBrowser .jp-FileBrowser {
+  /* flex-grow: 1; */
+  height: 100%;
+}

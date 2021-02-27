@@ -1,0 +1,14 @@
+{
+  "jupyter.lab.setting-icon-class": "jp-FileSystemIcon",
+  "jupyter.lab.setting-icon-label": "FileSystem Browser",
+  "title": "FileSystem Browser",
+  "description": "FileSystem Browser settings",
+  "properties": {
+    "defaultBucket": {
+      "type": "string",
+      "title": "Default Bucket",
+      "default": "local"
+    }
+  },
+  "type": "object"
+}
